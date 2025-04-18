@@ -1,3 +1,23 @@
+Banking Transaction Manager
+A basic Python class for managing bank accounts.
+
+
+Features
+Create a bank account with an account number and balance
+Deposit funds into your account
+Withdraw funds from your account
+
+
+
+Usage
+Create a new instance of the Bank_account class.
+Call the deposit method to add funds to your account.
+Call the withdraw method to remove funds from your account.
+
+
+
+Code
+This project uses a simple Python class to manage bank accounts.
 ```
 class Bank_account:
     def __init__(self, account_number, balance):
