@@ -16,8 +16,9 @@ Call the withdraw method to remove funds from your account.
 
 
 
-Code
-This project uses a simple Python class to manage bank accounts.
+Running the Code
+Deposit and withdrawal can't be done at a time;
+You withdraw by removing the # tag while calling the withdraw method.
 ```
 class Bank_account:
     def __init__(self, account_number, balance):
