@@ -15,8 +15,9 @@ Call the deposit method to add funds to your account.
 Call the withdraw method to remove funds from your account.
 
 
-
-Running the Code
+```
+Running the Code:
+```
 Deposit and withdrawal can't be done at a time;
 You withdraw by removing the # tag while calling the withdraw method.
 ```
